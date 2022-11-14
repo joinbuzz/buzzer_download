@@ -1,3 +1,3 @@
 # Download the Buzzer
 
-To download the Buzzer, go into releases, select the latest version and click on the download URL.
+To download the Buzzer, go into releases, click on `Download Buzzer - Latest`, and click on `Buzzer.dmg` under `Assets`.
